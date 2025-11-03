@@ -1,0 +1,10 @@
+# Core dependencies
+numpy>=1.26
+pandas>=2.2
+pyarrow>=16.0
+
+# Optional: For PyTorch-based variants
+torch>=2.2
+
+# Optional: For Anthropic integration
+anthropic>=0.25

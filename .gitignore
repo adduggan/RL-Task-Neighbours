@@ -1,0 +1,32 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Data & output artifacts
+data/
+outputs/
+
+# Environment and API keys
+.env
+*.env
+anthropic.key
+
+# Python logs
+*.log
+
+# Temporary build files
+*.egg-info/
+dist/
+build/
