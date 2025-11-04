@@ -52,7 +52,7 @@ nbr_sim		list[5]		Corresponding cosine similarities (descending)
 Parameter				Easier			Harder
 N (task.py)				smaller			larger
 X_SECONDS (grader.py)	higher			lower
-Y_MB (grader.py)		higher		lower
+Y_MB (grader.py)		higher			lower
 
 The default configuration produces a pass rate of approximately 25–30% for Claude-3.5 Sonnet.
 
